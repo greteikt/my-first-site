@@ -1,2 +1,2 @@
-# my-first-site
+# main-site
 my first site on GitHub.
